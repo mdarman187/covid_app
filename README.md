@@ -5,7 +5,7 @@
 
 ## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/mdarman187/covid_app/total?color=green)
 
-<a href="https://github.com/mdarman187/covid/releases/download/v1.0/covidapp.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+<a href="https://github.com/mdarman187/covid_app/releases/download/v1.0/covidapp.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
 ## App Screenshots
 
