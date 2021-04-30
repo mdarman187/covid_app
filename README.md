@@ -11,7 +11,7 @@
 
   Home Screen                 |   Country Data        |  FAQs Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/mdarman187/gen_news/blob/master/covid-app-pic1.jpeg?raw=true)|![](https://github.com/mdarman187/gen_news/blob/master/covid-app-pic2.jpeg?raw=true)|![](https://github.com/mdarman187/gen_news/blob/master/covid-app-pic3.jpeg?raw=true)
+![](https://github.com/mdarman187/covid_app/blob/master/covid-app-pic1.jpeg?raw=true)|![](https://github.com/mdarman187/covid_app/blob/master/covid-app-pic2.jpeg?raw=true)|![](https://github.com/mdarman187/covid_app/blob/master/covid-app-pic3.jpeg?raw=true)
 
 ## Pull Requests
 
