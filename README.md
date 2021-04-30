@@ -2,6 +2,10 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/mdarman187/covid_app?style=social)](https://github.com/login?return_to=%2Fmdarman187%covid_app) ![GitHub forks](https://img.shields.io/github/forks/mdarman187/covid_app?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/mdarman187/covid_app) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/mdarman187/covid_app) 
 
+> Covid App helps you gather all information regarding the COVID-19. 
+> It shows the live details of all the countries along with common worldwide statistics. 
+> It also provides options for donations to WHO and creates awareness by answering various questions regarding the prevention and spread of the virus.
+
 
 ## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/mdarman187/covid_app/total?color=green)
 
